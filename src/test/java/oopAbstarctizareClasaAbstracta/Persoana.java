@@ -4,8 +4,8 @@ public abstract class Persoana {
 
     //O clasa abstracta se recunoaste dupa cuvantul ABSTRACT
     //Clasa abstarcta poate sau nu sa contina metode abstarcte
-    //O clasa abstarcta se moesteneste
-    //Clasa care msteneste o clasa abstacta trebuie sa implementeze toate metodele abstarcte
+    //O clasa abstarcta se mosteneste
+    //Clasa care mpsteneste o clasa abstacta trebuie sa implementeze toate metodele abstarcte
     //O metoda abstacta trebuie sa contina cuvantul ABSTRACT
     //Metodela abstarcte pot sa fie publice/protected
     //O clasa abstracta poate sa implemneteze o interfata

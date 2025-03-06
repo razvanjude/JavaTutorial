@@ -16,7 +16,7 @@ public class Masina {
     //Polimorfism = conceptul prin care o metoda poate suferi modificari la nivel de continut sau definitie
     //Polimorfismul este de 2 feluri: DInamic(override) si static(overload)
     //Polimorfismul dinamic = intr-o ierarhie de clase obtinute prin mostenire o metoda poate avea implementari diferite
-    //Polimorfismul static = conceptul pe baza caruia o metoda poate fi definita in fucntie de numarul/tipul de parametri
+    //Polimorfismul static = conceptul pe baza caruia o metoda poate fi definita in functie de numarul/tipul de parametri
     //Polimorfismul dinamic = se aplica in momentul in care avem o legatura parinte-copil
     //Polimorfismul static se aplica indiferent de circumstanta
 
