@@ -6,6 +6,7 @@ public class Animal {
 
     }
 
+    //Private nu va iesi din clasa Animal
     private void metodaPrivata() {
 
     }
